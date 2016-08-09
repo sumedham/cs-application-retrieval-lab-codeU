@@ -1,0 +1,30 @@
+body {
+	background-image: url("background.jpg");
+}
+
+h1 {
+	font-family: Helvetica;
+	font-weight: 100;
+	font-size: 100px;
+	color: #ffffff;
+}
+
+.heading {
+	margin-left: 28%;
+	margin-top: 10%;
+
+}
+
+.speech {
+	border: 1px solid #DDD; width: 300px; padding: 0; margin: 0
+}
+.speech input {
+	border: 0; width: 240px; display: inline-block; height: 30px;
+}
+.speech img {
+	float: right; width: 33px 
+}
+
+#labnol {
+ 	width: 300px; height: 300px; margin: 0 auto;
+}
